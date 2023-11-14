@@ -1,6 +1,7 @@
 @import 'normalize.css';
 
 :root {
+    
     --default-layout-header-hight: 60px;
     --default-layout-width: 1150px;
 }
@@ -9,4 +10,16 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box  ;
+}
+
+button,
+input,
+[tabindex] {
+    outline: none;
+    border: none;
+}
+
+a[href] {
+    color: var(--text-color);
+    text-decoration: none;
 }
