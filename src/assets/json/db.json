@@ -1,0 +1,67 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "first_name": "Nguyen",
+            "last_name": "Nam",
+            "full_name": "Nguyen Nam",
+            "nickname": "boynhangheo",
+            "avatar": "https://media-api.advertisingvietnam.com/oapi/v1/media?uuid=public%2Fwp-content%2Fuploads%2F2017%2F12%2F14-resources-design-.jpg&resolution=1440x756&type=image",
+            "tick": true
+        },
+        {
+            "id": 2,
+            "first_name": "Nguyen Van",
+            "last_name": "Quang",
+            "full_name": "Nguyen Van Quang",
+            "nickname": "nguyenquang",
+            "avatar": "https://media-api.advertisingvietnam.com/oapi/v1/media?uuid=public%2Fwp-content%2Fuploads%2F2017%2F12%2F14-resources-design-.jpg&resolution=1440x756&type=image",
+            "tick": true
+        },
+        {
+            "id": 3,
+            "first_name": "Ngo Thi",
+            "last_name": "Thanh",
+            "full_name": "Ngo Thi Thanh",
+            "nickname": "girlxinh",
+            "avatar": "",
+            "tick": true
+        },
+        {
+            "id": 4,
+            "first_name": "Hoang Nguyen",
+            "last_name": "Anh Tuan",
+            "full_name": "Hoang Nguyen Anh Tuan",
+            "nickname": "supper",
+            "avatar": "https://media-api.advertisingvietnam.com/oapi/v1/media?uuid=public%2Fwp-content%2Fuploads%2F2017%2F12%2F14-resources-design-.jpg&resolution=1440x756&type=image",
+            "tick": false
+        },
+        {
+            "id": 5,
+            "first_name": "Tran",
+            "last_name": "Hao Nam",
+            "full_name": "Tran Hao Nam",
+            "nickname": "gianghomom",
+            "avatar": "",
+            "tick": false
+        },
+        {
+            "id": 6,
+            "first_name": "Nguyen",
+            "last_name": "Nam 2",
+            "full_name": "Nguyen Nam",
+            "nickname": "boynhagiau",
+            "avatar": "https://media-api.advertisingvietnam.com/oapi/v1/media?uuid=public%2Fwp-content%2Fuploads%2F2017%2F12%2F14-resources-design-.jpg&resolution=1440x756&type=image",
+            "tick": true
+        },
+        {
+            "id": 7,
+            "first_name": "Nguyen",
+            "last_name": "Nam 3",
+            "full_name": "Nguyen Nam",
+            "nickname": "condaigia",
+            "avatar": "https://media-api.advertisingvietnam.com/oapi/v1/media?uuid=public%2Fwp-content%2Fuploads%2F2017%2F12%2F14-resources-design-.jpg&resolution=1440x756&type=image",
+            "tick": true
+        }
+    ]
+}
